@@ -1,0 +1,6 @@
+[submodule "skins\\Dark"]
+	path = skins\\Dark
+	url = https://github.com/unek/loveframes-dark-theme
+[submodule "skins\\Gray"]
+	path = skins\\Gray
+	url = https://github.com/unek/loveframes-gray-theme
